@@ -1,2 +1,2 @@
-# projeto  em grupo html css ada
- Projeto feito em grupo html e css ada
+# front-end-projeto-em-grupo
+This is a static website made with HTML and CSS
